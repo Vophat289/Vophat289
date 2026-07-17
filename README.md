@@ -96,8 +96,9 @@
 
 ###
 
-<h3 data-importer="text" align="left">Contact:</h3>
+<h2 data-importer="text" align="left">Contact:</h2>
 
+###
 
 <div data-importer="socials" align="left">
   <a href="https://www.instagram.com/_takeanap.zzz/" target="_blank">
