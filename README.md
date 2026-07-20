@@ -1,124 +1,54 @@
-# 👋 Hi, I'm Vo Hong Phat
-
-## 💡 About Me
-
-I'm a **Backend Developer** passionate about building scalable web applications with **Golang** and modern backend technologies.
-
-🎓 Information Technology Student
-
-🚀 Currently learning **Go, Clean Architecture, Microservices, Docker, Redis, PostgreSQL**
-
-💻 Interested in **Backend Development, Distributed Systems, Cloud, and DevOps**
-
-🌱 My goal is to become a **Backend Engineer specializing in Golang**.
-
----
-
 # 🛠️ Tech Stack
 
 ## 💻 Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,js,ts,go,php" />
-</p>
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-## ⚙️ Frameworks & Libraries
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=angular,react,nodejs,nextjs,tailwind" />
-</p>
+## ⚙️ Frontend
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
+
+## 🔗 Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+---
 
 ## 🗄️ Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis" />
-</p>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-<p>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=mssql" />
-</p>
+---
 
 ## ☁️ Cloud & DevOps
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,linux,github,gcp" />
-</p>
-
-## 🧰 Other Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=wordpress,figma" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=postman" />
-</p>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ---
 
-# 🚀 Currently Learning
+## 🧰 Other
 
-- Golang
-- Gin
-- Clean Architecture
-- RESTful API
-- JWT Authentication
-- PostgreSQL
-- Redis
-- Docker
-- gRPC
-- Microservices
-- CI/CD
-- Kubernetes
-
----
-
-# 📂 Featured Projects
-
-### 🛒 Go-Commerce
-
-A modern E-commerce backend built with Golang.
-
-**Tech Stack**
-
-- Go
-- Gin
-- PostgreSQL
-- Redis
-- JWT
-- Docker
-- Clean Architecture
-
----
-
-### 🤖 Marketing Automation Platform
-
-Marketing automation platform integrating AI workflows.
-
-**Tech Stack**
-
-- Golang
-- REST API
-- Redis
-- PostgreSQL
-- Docker
-
----
-
-# 📫 Connect With Me
-
-<p>
-<a href="https://instagram.com/your_username">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/your_username">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:vohongphat2892005@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
-</a>
-
-</p>
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
