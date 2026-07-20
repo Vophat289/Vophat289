@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vo Hong Phat</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=1000&color=00ADD8&center=true&vCenter=true&width=700&lines=Hi+there!+%F0%9F%91%8B;I'm+Vo+Hong+Phat;Backend+Developer;Passionate+about+Software+Engineering;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=1000&color=00ADD8&center=true&vCenter=true&width=700&lines=Hi+there!+%F0%9F%91%8B;I'm+Vo+Hong+Phat;Backend+Developer;Passionate+about+Software+Engineering;" alt="Typing SVG" />
 </p>
 
 ---
